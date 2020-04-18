@@ -12,3 +12,6 @@ watchdog==0.10.2
 
 # For formatting your code
 black==19.10b0
+
+# For interacting with our database
+Flask-SQLAlchemy==2.4.1
