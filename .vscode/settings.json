@@ -3,7 +3,7 @@
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "python.formatting.provider": "black",
-  "python.formatting.blackPath": "env/bin/black",
+  "python.formatting.blackPath": "./env/bin/black",
   "python.formatting.blackArgs": ["--config", "configs/pyproject.toml"],
-  "python.pythonPath": "env/bin/python3.8"
+  "python.pythonPath": "./env/bin/python3.8"
 }
