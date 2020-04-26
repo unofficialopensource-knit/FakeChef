@@ -1,0 +1,7 @@
+[tool.black]
+line-length = 88
+target-version = ['py38']
+exclude = '''
+__pycache__/
+env/
+'''

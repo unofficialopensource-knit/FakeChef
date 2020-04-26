@@ -1,1 +1,17 @@
+# For web server
 Flask==1.1.2
+
+# For setting up environment
+python-dotenv==0.13.0
+
+# Faster JSON implementation
+simplejson==3.17.0
+
+# For hot reloading
+watchdog==0.10.2
+
+# For formatting your code
+black==19.10b0
+
+# For interacting with our database
+Flask-SQLAlchemy==2.4.1
